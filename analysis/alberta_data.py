@@ -1,9 +1,15 @@
 import csv
+from datetime import datetime
 from bokeh.plotting import figure
+from bokeh.models import DatetimeTickFormatter
 from bokeh.io import show
 
 
 def alberta_plot():
+    with open("../data/alberta-time-series-combined.csv") as file:
+        reader = csv.DictReader(file)
+        actual_dates = [datetime.strptime(row['Date'], '%Y-%m-%d') for row in reader]
+
     with open("../data/alberta-time-series-combined.csv") as file:
         reader = csv.DictReader(file)
         confirmed = [row['Confirmed'] for row in reader]
@@ -12,11 +18,12 @@ def alberta_plot():
         reader = csv.DictReader(file)
         deaths = [row['Deaths'] for row in reader]
 
-    dates = range(len(confirmed))
-
-    plot = figure(width=400, plot_height=600, title="Confirmed Alberta Cases, 2020")
-    plot.line(dates, confirmed, line_width=2, line_color='red')
-    plot.line(dates, deaths, line_width=2, line_color='blue')
+    plot = figure(width=500, plot_height=600, title="COVID-19 Alberta Cases, 2020")
+    plot.yaxis.axis_label = "# of Cases"
+    plot.xaxis.formatter = DatetimeTickFormatter(days="%m/%d")
+    plot.line(actual_dates, confirmed, line_width=2, line_color='red', legend_label='confirmed')
+    plot.line(actual_dates, deaths, line_width=2, line_color='blue', legend_label='deaths')
+    plot.legend.location = "top_left"
 
     return plot
 
