@@ -4,8 +4,7 @@ from bokeh.plotting import figure
 from bokeh.models import DatetimeTickFormatter
 from bokeh.io import show
 
-from numpy import exp
-from ontario_fitting import confirmed_model
+from model_fitting import confirmed_model
 
 def ontario_plot():
     with open("../data/ontario-time-series-combined.csv") as file:
@@ -22,16 +21,14 @@ def ontario_plot():
 
     # data
     plot = figure(width=500, plot_height=600, title="COVID-19 Ontario Cases, 2020")
-    plot.legend.location = "top_left"    
     plot.yaxis.axis_label = "# of Cases"
     plot.xaxis.formatter = DatetimeTickFormatter(days="%m/%d")
     plot.line(actual_dates, confirmed, line_width=2, line_color='red', legend_label='confirmed')
     plot.line(actual_dates, deaths, line_width=2, line_color='blue', legend_label='deaths')
-    
+    plot.legend.location = "top_left"    
+
     # model
-    A = confirmed_model()
-    x = [i+1 for i in range(len(actual_dates))]
-    model = [exp(A[1]*i) + exp(A[0]) for i in x]
+    model = confirmed_model('ontario')
     plot.line(actual_dates, model, line_width=2, line_color='red', line_dash='dashed', legend_label="confirmed (model)")
 
     return plot

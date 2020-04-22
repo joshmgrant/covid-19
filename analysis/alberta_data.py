@@ -4,6 +4,7 @@ from bokeh.plotting import figure
 from bokeh.models import DatetimeTickFormatter
 from bokeh.io import show
 
+from model_fitting import confirmed_model
 
 def alberta_plot():
     with open("../data/alberta-time-series-combined.csv") as file:
@@ -24,6 +25,11 @@ def alberta_plot():
     plot.line(actual_dates, confirmed, line_width=2, line_color='red', legend_label='confirmed')
     plot.line(actual_dates, deaths, line_width=2, line_color='blue', legend_label='deaths')
     plot.legend.location = "top_left"
+
+    # model
+    model = confirmed_model('alberta')
+    plot.line(actual_dates, model, line_width=2, line_color='red', line_dash='dashed', legend_label="confirmed (model)")
+
 
     return plot
 
