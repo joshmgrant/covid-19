@@ -144,6 +144,10 @@ static
 
 # put you virtual env names here
 env36/
+venv3/
 
 # dataflows checkpoints
 .checkpoints/
+
+# extra data stuff
+*/**/*xlsx
