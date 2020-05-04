@@ -3,10 +3,15 @@ from datetime import datetime
 import numpy as np
 
 
-def confirmed_model(region='ontario', x_model=[]):
-    with open("../data/{}-time-series-combined.csv".format(region)) as file:
-        reader = csv.DictReader(file)
-        confirmed = [row['Confirmed'] for row in reader]
+def confirmed_model(region='ontario', x_model=[], us_case=None):
+    if us_case:
+        with open("../data/us_confirmed_pivot_data.csv") as file:
+            reader = csv.DictReader(file)
+            confirmed = [row[region.capitalize()] for row in reader]
+    else:
+        with open("../data/{}-time-series-combined.csv".format(region)) as file:
+            reader = csv.DictReader(file)
+            confirmed = [row['Confirmed'] for row in reader]
 
     # Use an exponential model with linear regression
     # y = C*exp(a*x)
