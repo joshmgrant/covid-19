@@ -1,29 +1,28 @@
 import numpy as np
-from scipy.integrate import solve_ivp
+from scipy.integrate import odeint
 from bokeh.plotting import figure
 from bokeh.io import show
+from bokeh.layouts import row
 
 
-beta = 3.0
-gamma = 2.0
+def SIR_plot(beta, gamma):
+    # recall that R0 = beta / gamma
+    def func(y, t, b=beta, g=gamma):
+        u, v = y
+        return [-b * u * v, b * u * v - g * v]
 
-def func(t, u, b, g):
-    s = u[0]
-    i = u[1]
-    r = u[2]
-    return [-b * i * s / 14.0, b * i * s / 14.0 - g * i, g * i]
+    t_vals = np.linspace(0, 90, 90)
+    y0 = (0.99, 0.01) 
+    y = odeint(func, y0, t_vals, args=(beta, gamma))
 
+    plot = figure(width=500, plot_height=600, title="SIR Model, beta {}, gamma {}".format(beta, gamma))
+    plot.yaxis.axis_label = "Time"
+    plot.line(t_vals, y[:,0], line_width=2, line_color='red')
+    plot.line(t_vals, y[:,1], line_width=2, line_color='green')
 
-z0 = (0.0, 1.0, 0.0) 
-t_vals = np.linspace(0, 90, 90)
-sol = solve_ivp(func, z0, t_vals, args=(beta, gamma), dense_output=True)
-z = sol.sol(t_vals)
+    return plot
 
-print(z[0])
+no_outbreak = SIR_plot(1.0, 5.0)
+outbreak = SIR_plot(5.0, 1.0)
 
-plot = figure(width=500, plot_height=600, title="SIR Model, beta {}, gamma {}".format(beta, gamma))
-plot.yaxis.axis_label = "Time"
-plot.line(t_vals, z[0], line_width=2, line_color='red')
-plot.line(t_vals, z[1], line_width=2, line_color='green')
-
-show(plot)
+show(row(no_outbreak, outbreak))
