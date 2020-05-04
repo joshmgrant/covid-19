@@ -24,5 +24,6 @@ def SIR_plot(beta, gamma):
 
 no_outbreak = SIR_plot(1.0, 5.0)
 outbreak = SIR_plot(5.0, 1.0)
+no_clue = SIR_plot(3.0, 3.0)
 
-show(row(no_outbreak, outbreak))
+show(row(no_outbreak, outbreak, no_clue))
