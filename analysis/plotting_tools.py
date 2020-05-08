@@ -22,6 +22,10 @@ def plot_data(region='ontario', show_estimated=None):
         reader = csv.DictReader(file)
         deaths = [row['Deaths'] for row in reader]
 
+    if region.lower() ==  'sweden':
+        with open(file_name) as file:
+            reader = csv.DictReader(file)
+            recovered = [row['Recovered'] for row in reader]
 
     plot = figure(width=500, plot_height=600, title="COVID-19 {} Cases, 2020".format(region.capitalize()))
     
@@ -30,6 +34,8 @@ def plot_data(region='ontario', show_estimated=None):
     plot.xaxis.formatter = DatetimeTickFormatter(days="%m/%d")
     plot.line(actual_dates, confirmed, line_width=2, line_color='red', legend_label='confirmed')
     plot.line(actual_dates, deaths, line_width=2, line_color='blue', legend_label='deaths')
+    if region.lower() == 'sweden':
+        plot.line(actual_dates, recovered, line_width=2, line_color='green', legend_label='deaths')
     plot.legend.location = "top_left"
 
     # model
