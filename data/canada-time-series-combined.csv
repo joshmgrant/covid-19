@@ -91,6 +91,9 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-20,Canada,Alberta,53.9333,-116.5765,2908,,59
 2020-04-21,Canada,Alberta,53.9333,-116.5765,3095,,61
 2020-04-22,Canada,Alberta,53.9333,-116.5765,3401,,66
+2020-04-23,Canada,Alberta,53.9333,-116.5765,3720,,68
+2020-04-24,Canada,Alberta,53.9333,-116.5765,4017,,72
+2020-04-25,Canada,Alberta,53.9333,-116.5765,4233,,73
 2020-01-22,Canada,British Columbia,49.2827,-123.1207,0,,0
 2020-01-23,Canada,British Columbia,49.2827,-123.1207,0,,0
 2020-01-24,Canada,British Columbia,49.2827,-123.1207,0,,0
@@ -183,6 +186,9 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-20,Canada,British Columbia,49.2827,-123.1207,1647,,82
 2020-04-21,Canada,British Columbia,49.2827,-123.1207,1724,,87
 2020-04-22,Canada,British Columbia,49.2827,-123.1207,1795,,90
+2020-04-23,Canada,British Columbia,49.2827,-123.1207,1824,,94
+2020-04-24,Canada,British Columbia,49.2827,-123.1207,1853,,98
+2020-04-25,Canada,British Columbia,49.2827,-123.1207,1948,,100
 2020-01-22,Canada,Diamond Princess,0.0,0.0,0,,0
 2020-01-23,Canada,Diamond Princess,0.0,0.0,0,,0
 2020-01-24,Canada,Diamond Princess,0.0,0.0,0,,0
@@ -275,6 +281,9 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-20,Canada,Diamond Princess,0.0,0.0,-1,,-1
 2020-04-21,Canada,Diamond Princess,0.0,0.0,-1,,-1
 2020-04-22,Canada,Diamond Princess,0.0,0.0,-1,,-1
+2020-04-23,Canada,Diamond Princess,0.0,0.0,0,,1
+2020-04-24,Canada,Diamond Princess,0.0,0.0,0,,1
+2020-04-25,Canada,Diamond Princess,0.0,0.0,0,,1
 2020-01-22,Canada,Grand Princess,37.6489,-122.6655,0,,0
 2020-01-23,Canada,Grand Princess,37.6489,-122.6655,0,,0
 2020-01-24,Canada,Grand Princess,37.6489,-122.6655,0,,0
@@ -367,6 +376,9 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-20,Canada,Grand Princess,37.6489,-122.6655,13,,0
 2020-04-21,Canada,Grand Princess,37.6489,-122.6655,13,,0
 2020-04-22,Canada,Grand Princess,37.6489,-122.6655,-1,,-1
+2020-04-23,Canada,Grand Princess,37.6489,-122.6655,-1,,-1
+2020-04-24,Canada,Grand Princess,37.6489,-122.6655,-1,,-1
+2020-04-25,Canada,Grand Princess,37.6489,-122.6655,-1,,-1
 2020-01-22,Canada,Manitoba,53.7609,-98.8139,0,,0
 2020-01-23,Canada,Manitoba,53.7609,-98.8139,0,,0
 2020-01-24,Canada,Manitoba,53.7609,-98.8139,0,,0
@@ -459,6 +471,9 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-20,Canada,Manitoba,53.7609,-98.8139,254,,6
 2020-04-21,Canada,Manitoba,53.7609,-98.8139,255,,6
 2020-04-22,Canada,Manitoba,53.7609,-98.8139,257,,6
+2020-04-23,Canada,Manitoba,53.7609,-98.8139,262,,6
+2020-04-24,Canada,Manitoba,53.7609,-98.8139,263,,6
+2020-04-25,Canada,Manitoba,53.7609,-98.8139,267,,6
 2020-01-22,Canada,New Brunswick,46.5653,-66.4619,0,,0
 2020-01-23,Canada,New Brunswick,46.5653,-66.4619,0,,0
 2020-01-24,Canada,New Brunswick,46.5653,-66.4619,0,,0
@@ -551,6 +566,9 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-20,Canada,New Brunswick,46.5653,-66.4619,118,,0
 2020-04-21,Canada,New Brunswick,46.5653,-66.4619,118,,0
 2020-04-22,Canada,New Brunswick,46.5653,-66.4619,118,,0
+2020-04-23,Canada,New Brunswick,46.5653,-66.4619,118,,0
+2020-04-24,Canada,New Brunswick,46.5653,-66.4619,118,,0
+2020-04-25,Canada,New Brunswick,46.5653,-66.4619,118,,0
 2020-01-22,Canada,Newfoundland and Labrador,53.1355,-57.6604,0,,0
 2020-01-23,Canada,Newfoundland and Labrador,53.1355,-57.6604,0,,0
 2020-01-24,Canada,Newfoundland and Labrador,53.1355,-57.6604,0,,0
@@ -643,6 +661,9 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-20,Canada,Newfoundland and Labrador,53.1355,-57.6604,257,,3
 2020-04-21,Canada,Newfoundland and Labrador,53.1355,-57.6604,257,,3
 2020-04-22,Canada,Newfoundland and Labrador,53.1355,-57.6604,256,,3
+2020-04-23,Canada,Newfoundland and Labrador,53.1355,-57.6604,256,,3
+2020-04-24,Canada,Newfoundland and Labrador,53.1355,-57.6604,256,,3
+2020-04-25,Canada,Newfoundland and Labrador,53.1355,-57.6604,257,,3
 2020-01-22,Canada,Northwest Territories,64.8255,-124.8457,0,,0
 2020-01-23,Canada,Northwest Territories,64.8255,-124.8457,0,,0
 2020-01-24,Canada,Northwest Territories,64.8255,-124.8457,0,,0
@@ -735,98 +756,104 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-20,Canada,Northwest Territories,64.8255,-124.8457,5,,0
 2020-04-21,Canada,Northwest Territories,64.8255,-124.8457,5,,0
 2020-04-22,Canada,Northwest Territories,64.8255,-124.8457,5,,0
-2020-01-22,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-01-23,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-01-24,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-01-25,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-01-26,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-01-27,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-01-28,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-01-29,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-01-30,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-01-31,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-01,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-02,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-03,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-04,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-05,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-06,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-07,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-08,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-09,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-10,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-11,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-12,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-13,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-14,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-15,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-16,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-17,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-18,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-19,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-20,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-21,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-22,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-23,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-24,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-25,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-26,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-27,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-28,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-02-29,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-03-01,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-03-02,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-03-03,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-03-04,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-03-05,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-03-06,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-03-07,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-03-08,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-03-09,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-03-10,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-03-11,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-03-12,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-03-13,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-03-14,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-03-15,Canada,Nova Scotia,44.681999999999995,-63.7443,0,,0
-2020-03-16,Canada,Nova Scotia,44.681999999999995,-63.7443,5,,0
-2020-03-17,Canada,Nova Scotia,44.681999999999995,-63.7443,7,,0
-2020-03-18,Canada,Nova Scotia,44.681999999999995,-63.7443,12,,0
-2020-03-19,Canada,Nova Scotia,44.681999999999995,-63.7443,14,,0
-2020-03-20,Canada,Nova Scotia,44.681999999999995,-63.7443,15,,0
-2020-03-21,Canada,Nova Scotia,44.681999999999995,-63.7443,21,,0
-2020-03-22,Canada,Nova Scotia,44.681999999999995,-63.7443,28,,0
-2020-03-23,Canada,Nova Scotia,44.681999999999995,-63.7443,41,,0
-2020-03-24,Canada,Nova Scotia,44.681999999999995,-63.7443,51,,0
-2020-03-25,Canada,Nova Scotia,44.681999999999995,-63.7443,68,,0
-2020-03-26,Canada,Nova Scotia,44.681999999999995,-63.7443,73,,0
-2020-03-27,Canada,Nova Scotia,44.681999999999995,-63.7443,90,,0
-2020-03-28,Canada,Nova Scotia,44.681999999999995,-63.7443,110,,0
-2020-03-29,Canada,Nova Scotia,44.681999999999995,-63.7443,122,,0
-2020-03-30,Canada,Nova Scotia,44.681999999999995,-63.7443,127,,0
-2020-03-31,Canada,Nova Scotia,44.681999999999995,-63.7443,147,,0
-2020-04-01,Canada,Nova Scotia,44.681999999999995,-63.7443,173,,0
-2020-04-02,Canada,Nova Scotia,44.681999999999995,-63.7443,193,,0
-2020-04-03,Canada,Nova Scotia,44.681999999999995,-63.7443,207,,0
-2020-04-04,Canada,Nova Scotia,44.681999999999995,-63.7443,236,,0
-2020-04-05,Canada,Nova Scotia,44.681999999999995,-63.7443,262,,0
-2020-04-06,Canada,Nova Scotia,44.681999999999995,-63.7443,293,,0
-2020-04-07,Canada,Nova Scotia,44.681999999999995,-63.7443,310,,1
-2020-04-08,Canada,Nova Scotia,44.681999999999995,-63.7443,310,,1
-2020-04-09,Canada,Nova Scotia,44.681999999999995,-63.7443,342,,1
-2020-04-10,Canada,Nova Scotia,44.681999999999995,-63.7443,407,,2
-2020-04-11,Canada,Nova Scotia,44.681999999999995,-63.7443,428,,2
-2020-04-12,Canada,Nova Scotia,44.681999999999995,-63.7443,445,,2
-2020-04-13,Canada,Nova Scotia,44.681999999999995,-63.7443,474,,3
-2020-04-14,Canada,Nova Scotia,44.681999999999995,-63.7443,517,,3
-2020-04-15,Canada,Nova Scotia,44.681999999999995,-63.7443,549,,3
-2020-04-16,Canada,Nova Scotia,44.681999999999995,-63.7443,579,,3
-2020-04-17,Canada,Nova Scotia,44.681999999999995,-63.7443,606,,4
-2020-04-18,Canada,Nova Scotia,44.681999999999995,-63.7443,649,,7
-2020-04-19,Canada,Nova Scotia,44.681999999999995,-63.7443,675,,9
-2020-04-20,Canada,Nova Scotia,44.681999999999995,-63.7443,721,,9
-2020-04-21,Canada,Nova Scotia,44.681999999999995,-63.7443,737,,10
-2020-04-22,Canada,Nova Scotia,44.681999999999995,-63.7443,772,,12
+2020-04-23,Canada,Northwest Territories,64.8255,-124.8457,5,,0
+2020-04-24,Canada,Northwest Territories,64.8255,-124.8457,5,,0
+2020-04-25,Canada,Northwest Territories,64.8255,-124.8457,5,,0
+2020-01-22,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-01-23,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-01-24,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-01-25,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-01-26,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-01-27,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-01-28,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-01-29,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-01-30,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-01-31,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-01,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-02,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-03,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-04,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-05,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-06,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-07,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-08,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-09,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-10,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-11,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-12,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-13,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-14,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-15,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-16,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-17,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-18,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-19,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-20,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-21,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-22,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-23,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-24,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-25,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-26,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-27,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-28,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-02-29,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-03-01,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-03-02,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-03-03,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-03-04,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-03-05,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-03-06,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-03-07,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-03-08,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-03-09,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-03-10,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-03-11,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-03-12,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-03-13,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-03-14,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-03-15,Canada,Nova Scotia,44.682,-63.7443,0,,0
+2020-03-16,Canada,Nova Scotia,44.682,-63.7443,5,,0
+2020-03-17,Canada,Nova Scotia,44.682,-63.7443,7,,0
+2020-03-18,Canada,Nova Scotia,44.682,-63.7443,12,,0
+2020-03-19,Canada,Nova Scotia,44.682,-63.7443,14,,0
+2020-03-20,Canada,Nova Scotia,44.682,-63.7443,15,,0
+2020-03-21,Canada,Nova Scotia,44.682,-63.7443,21,,0
+2020-03-22,Canada,Nova Scotia,44.682,-63.7443,28,,0
+2020-03-23,Canada,Nova Scotia,44.682,-63.7443,41,,0
+2020-03-24,Canada,Nova Scotia,44.682,-63.7443,51,,0
+2020-03-25,Canada,Nova Scotia,44.682,-63.7443,68,,0
+2020-03-26,Canada,Nova Scotia,44.682,-63.7443,73,,0
+2020-03-27,Canada,Nova Scotia,44.682,-63.7443,90,,0
+2020-03-28,Canada,Nova Scotia,44.682,-63.7443,110,,0
+2020-03-29,Canada,Nova Scotia,44.682,-63.7443,122,,0
+2020-03-30,Canada,Nova Scotia,44.682,-63.7443,127,,0
+2020-03-31,Canada,Nova Scotia,44.682,-63.7443,147,,0
+2020-04-01,Canada,Nova Scotia,44.682,-63.7443,173,,0
+2020-04-02,Canada,Nova Scotia,44.682,-63.7443,193,,0
+2020-04-03,Canada,Nova Scotia,44.682,-63.7443,207,,0
+2020-04-04,Canada,Nova Scotia,44.682,-63.7443,236,,0
+2020-04-05,Canada,Nova Scotia,44.682,-63.7443,262,,0
+2020-04-06,Canada,Nova Scotia,44.682,-63.7443,293,,0
+2020-04-07,Canada,Nova Scotia,44.682,-63.7443,310,,1
+2020-04-08,Canada,Nova Scotia,44.682,-63.7443,310,,1
+2020-04-09,Canada,Nova Scotia,44.682,-63.7443,342,,1
+2020-04-10,Canada,Nova Scotia,44.682,-63.7443,407,,2
+2020-04-11,Canada,Nova Scotia,44.682,-63.7443,428,,2
+2020-04-12,Canada,Nova Scotia,44.682,-63.7443,445,,2
+2020-04-13,Canada,Nova Scotia,44.682,-63.7443,474,,3
+2020-04-14,Canada,Nova Scotia,44.682,-63.7443,517,,3
+2020-04-15,Canada,Nova Scotia,44.682,-63.7443,549,,3
+2020-04-16,Canada,Nova Scotia,44.682,-63.7443,579,,3
+2020-04-17,Canada,Nova Scotia,44.682,-63.7443,606,,4
+2020-04-18,Canada,Nova Scotia,44.682,-63.7443,649,,7
+2020-04-19,Canada,Nova Scotia,44.682,-63.7443,675,,9
+2020-04-20,Canada,Nova Scotia,44.682,-63.7443,721,,9
+2020-04-21,Canada,Nova Scotia,44.682,-63.7443,737,,10
+2020-04-22,Canada,Nova Scotia,44.682,-63.7443,772,,12
+2020-04-23,Canada,Nova Scotia,44.682,-63.7443,827,,16
+2020-04-24,Canada,Nova Scotia,44.682,-63.7443,-1,,-1
+2020-04-25,Canada,Nova Scotia,44.682,-63.7443,-1,,-1
 2020-01-22,Canada,Ontario,51.2538,-85.3232,0,,0
 2020-01-23,Canada,Ontario,51.2538,-85.3232,0,,0
 2020-01-24,Canada,Ontario,51.2538,-85.3232,0,,0
@@ -919,6 +946,9 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-20,Canada,Ontario,51.2538,-85.3232,12063,,624
 2020-04-21,Canada,Ontario,51.2538,-85.3232,12715,,694
 2020-04-22,Canada,Ontario,51.2538,-85.3232,13718,,762
+2020-04-23,Canada,Ontario,51.2538,-85.3232,14068,,806
+2020-04-24,Canada,Ontario,51.2538,-85.3232,14550,,862
+2020-04-25,Canada,Ontario,51.2538,-85.3232,15012,,916
 2020-01-22,Canada,Prince Edward Island,46.5107,-63.4168,0,,0
 2020-01-23,Canada,Prince Edward Island,46.5107,-63.4168,0,,0
 2020-01-24,Canada,Prince Edward Island,46.5107,-63.4168,0,,0
@@ -1011,6 +1041,9 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-20,Canada,Prince Edward Island,46.5107,-63.4168,26,,0
 2020-04-21,Canada,Prince Edward Island,46.5107,-63.4168,26,,0
 2020-04-22,Canada,Prince Edward Island,46.5107,-63.4168,26,,0
+2020-04-23,Canada,Prince Edward Island,46.5107,-63.4168,26,,0
+2020-04-24,Canada,Prince Edward Island,46.5107,-63.4168,26,,0
+2020-04-25,Canada,Prince Edward Island,46.5107,-63.4168,26,,0
 2020-01-22,Canada,Quebec,52.9399,-73.5491,0,,0
 2020-01-23,Canada,Quebec,52.9399,-73.5491,0,,0
 2020-01-24,Canada,Quebec,52.9399,-73.5491,0,,0
@@ -1103,6 +1136,9 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-20,Canada,Quebec,52.9399,-73.5491,19319,,939
 2020-04-21,Canada,Quebec,52.9399,-73.5491,20126,,1044
 2020-04-22,Canada,Quebec,52.9399,-73.5491,20965,,1134
+2020-04-23,Canada,Quebec,52.9399,-73.5491,21838,,1243
+2020-04-24,Canada,Quebec,52.9399,-73.5491,22616,,1340
+2020-04-25,Canada,Quebec,52.9399,-73.5491,23267,,1446
 2020-01-22,Canada,Recovery aggregated,56.1304,-106.3468,,0,
 2020-01-23,Canada,Recovery aggregated,56.1304,-106.3468,,0,
 2020-01-24,Canada,Recovery aggregated,56.1304,-106.3468,,0,
@@ -1195,6 +1231,9 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-20,Canada,Recovery aggregated,56.1304,-106.3468,,12543,
 2020-04-21,Canada,Recovery aggregated,56.1304,-106.3468,,13188,
 2020-04-22,Canada,Recovery aggregated,56.1304,-106.3468,,14454,
+2020-04-23,Canada,Recovery aggregated,56.1304,-106.3468,,14761,
+2020-04-24,Canada,Recovery aggregated,56.1304,-106.3468,,15149,
+2020-04-25,Canada,Recovery aggregated,56.1304,-106.3468,,16013,
 2020-01-22,Canada,Saskatchewan,52.9399,-106.4509,0,,0
 2020-01-23,Canada,Saskatchewan,52.9399,-106.4509,0,,0
 2020-01-24,Canada,Saskatchewan,52.9399,-106.4509,0,,0
@@ -1287,6 +1326,9 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-20,Canada,Saskatchewan,52.9399,-106.4509,316,,4
 2020-04-21,Canada,Saskatchewan,52.9399,-106.4509,320,,4
 2020-04-22,Canada,Saskatchewan,52.9399,-106.4509,326,,4
+2020-04-23,Canada,Saskatchewan,52.9399,-106.4509,331,,4
+2020-04-24,Canada,Saskatchewan,52.9399,-106.4509,341,,4
+2020-04-25,Canada,Saskatchewan,52.9399,-106.4509,349,,4
 2020-01-22,Canada,Yukon,64.2823,-135.0,0,,0
 2020-01-23,Canada,Yukon,64.2823,-135.0,0,,0
 2020-01-24,Canada,Yukon,64.2823,-135.0,0,,0
@@ -1379,3 +1421,6 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-20,Canada,Yukon,64.2823,-135.0,11,,0
 2020-04-21,Canada,Yukon,64.2823,-135.0,11,,0
 2020-04-22,Canada,Yukon,64.2823,-135.0,11,,0
+2020-04-23,Canada,Yukon,64.2823,-135.0,11,,0
+2020-04-24,Canada,Yukon,64.2823,-135.0,11,,0
+2020-04-25,Canada,Yukon,64.2823,-135.0,11,,0
