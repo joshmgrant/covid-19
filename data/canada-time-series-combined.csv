@@ -94,6 +94,25 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-23,Canada,Alberta,53.9333,-116.5765,3720,,68
 2020-04-24,Canada,Alberta,53.9333,-116.5765,4017,,72
 2020-04-25,Canada,Alberta,53.9333,-116.5765,4233,,73
+2020-04-26,Canada,Alberta,53.9333,-116.5765,4480,,73
+2020-04-27,Canada,Alberta,53.9333,-116.5765,4696,,75
+2020-04-28,Canada,Alberta,53.9333,-116.5765,4850,,80
+2020-04-29,Canada,Alberta,53.9333,-116.5765,5165,,87
+2020-04-30,Canada,Alberta,53.9333,-116.5765,5355,,90
+2020-05-01,Canada,Alberta,53.9333,-116.5765,5573,,92
+2020-05-02,Canada,Alberta,53.9333,-116.5765,5670,,94
+2020-05-03,Canada,Alberta,53.9333,-116.5765,5766,,95
+2020-05-04,Canada,Alberta,53.9333,-116.5765,5836,,104
+2020-05-05,Canada,Alberta,53.9333,-116.5765,5893,,106
+2020-05-06,Canada,Alberta,53.9333,-116.5765,5963,,112
+2020-05-07,Canada,Alberta,53.9333,-116.5765,6017,,114
+2020-05-08,Canada,Alberta,53.9333,-116.5765,6098,,115
+2020-05-09,Canada,Alberta,53.9333,-116.5765,6157,,116
+2020-05-10,Canada,Alberta,53.9333,-116.5765,6253,,117
+2020-05-11,Canada,Alberta,53.9333,-116.5765,6300,,117
+2020-05-12,Canada,Alberta,53.9333,-116.5765,6345,,118
+2020-05-13,Canada,Alberta,53.9333,-116.5765,6407,,120
+2020-05-14,Canada,Alberta,53.9333,-116.5765,6457,,121
 2020-01-22,Canada,British Columbia,49.2827,-123.1207,0,,0
 2020-01-23,Canada,British Columbia,49.2827,-123.1207,0,,0
 2020-01-24,Canada,British Columbia,49.2827,-123.1207,0,,0
@@ -189,6 +208,25 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-23,Canada,British Columbia,49.2827,-123.1207,1824,,94
 2020-04-24,Canada,British Columbia,49.2827,-123.1207,1853,,98
 2020-04-25,Canada,British Columbia,49.2827,-123.1207,1948,,100
+2020-04-26,Canada,British Columbia,49.2827,-123.1207,1948,,100
+2020-04-27,Canada,British Columbia,49.2827,-123.1207,1998,,104
+2020-04-28,Canada,British Columbia,49.2827,-123.1207,2053,,106
+2020-04-29,Canada,British Columbia,49.2827,-123.1207,2087,,109
+2020-04-30,Canada,British Columbia,49.2827,-123.1207,2112,,111
+2020-05-01,Canada,British Columbia,49.2827,-123.1207,2145,,112
+2020-05-02,Canada,British Columbia,49.2827,-123.1207,2171,,114
+2020-05-03,Canada,British Columbia,49.2827,-123.1207,2171,,114
+2020-05-04,Canada,British Columbia,49.2827,-123.1207,2224,,117
+2020-05-05,Canada,British Columbia,49.2827,-123.1207,2232,,121
+2020-05-06,Canada,British Columbia,49.2827,-123.1207,2255,,124
+2020-05-07,Canada,British Columbia,49.2827,-123.1207,2288,,126
+2020-05-08,Canada,British Columbia,49.2827,-123.1207,2315,,127
+2020-05-09,Canada,British Columbia,49.2827,-123.1207,2330,,129
+2020-05-10,Canada,British Columbia,49.2827,-123.1207,2330,,129
+2020-05-11,Canada,British Columbia,49.2827,-123.1207,2353,,130
+2020-05-12,Canada,British Columbia,49.2827,-123.1207,2360,,132
+2020-05-13,Canada,British Columbia,49.2827,-123.1207,2376,,132
+2020-05-14,Canada,British Columbia,49.2827,-123.1207,2392,,135
 2020-01-22,Canada,Diamond Princess,0.0,0.0,0,,0
 2020-01-23,Canada,Diamond Princess,0.0,0.0,0,,0
 2020-01-24,Canada,Diamond Princess,0.0,0.0,0,,0
@@ -270,20 +308,39 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-09,Canada,Diamond Princess,0.0,0.0,0,,1
 2020-04-10,Canada,Diamond Princess,0.0,0.0,0,,1
 2020-04-11,Canada,Diamond Princess,0.0,0.0,0,,1
-2020-04-12,Canada,Diamond Princess,0.0,0.0,-1,,1
-2020-04-13,Canada,Diamond Princess,0.0,0.0,-1,,-1
-2020-04-14,Canada,Diamond Princess,0.0,0.0,-1,,-1
-2020-04-15,Canada,Diamond Princess,0.0,0.0,-1,,-1
-2020-04-16,Canada,Diamond Princess,0.0,0.0,-1,,-1
-2020-04-17,Canada,Diamond Princess,0.0,0.0,-1,,-1
-2020-04-18,Canada,Diamond Princess,0.0,0.0,-1,,-1
-2020-04-19,Canada,Diamond Princess,0.0,0.0,-1,,-1
-2020-04-20,Canada,Diamond Princess,0.0,0.0,-1,,-1
-2020-04-21,Canada,Diamond Princess,0.0,0.0,-1,,-1
-2020-04-22,Canada,Diamond Princess,0.0,0.0,-1,,-1
+2020-04-12,Canada,Diamond Princess,0.0,0.0,0,,1
+2020-04-13,Canada,Diamond Princess,0.0,0.0,0,,1
+2020-04-14,Canada,Diamond Princess,0.0,0.0,0,,1
+2020-04-15,Canada,Diamond Princess,0.0,0.0,0,,1
+2020-04-16,Canada,Diamond Princess,0.0,0.0,0,,1
+2020-04-17,Canada,Diamond Princess,0.0,0.0,0,,1
+2020-04-18,Canada,Diamond Princess,0.0,0.0,0,,1
+2020-04-19,Canada,Diamond Princess,0.0,0.0,0,,1
+2020-04-20,Canada,Diamond Princess,0.0,0.0,0,,1
+2020-04-21,Canada,Diamond Princess,0.0,0.0,0,,1
+2020-04-22,Canada,Diamond Princess,0.0,0.0,0,,1
 2020-04-23,Canada,Diamond Princess,0.0,0.0,0,,1
 2020-04-24,Canada,Diamond Princess,0.0,0.0,0,,1
 2020-04-25,Canada,Diamond Princess,0.0,0.0,0,,1
+2020-04-26,Canada,Diamond Princess,0.0,0.0,0,,1
+2020-04-27,Canada,Diamond Princess,0.0,0.0,0,,1
+2020-04-28,Canada,Diamond Princess,0.0,0.0,0,,1
+2020-04-29,Canada,Diamond Princess,0.0,0.0,0,,1
+2020-04-30,Canada,Diamond Princess,0.0,0.0,0,,1
+2020-05-01,Canada,Diamond Princess,0.0,0.0,1,,1
+2020-05-02,Canada,Diamond Princess,0.0,0.0,1,,1
+2020-05-03,Canada,Diamond Princess,0.0,0.0,1,,1
+2020-05-04,Canada,Diamond Princess,0.0,0.0,1,,1
+2020-05-05,Canada,Diamond Princess,0.0,0.0,1,,1
+2020-05-06,Canada,Diamond Princess,0.0,0.0,1,,1
+2020-05-07,Canada,Diamond Princess,0.0,0.0,1,,1
+2020-05-08,Canada,Diamond Princess,0.0,0.0,1,,1
+2020-05-09,Canada,Diamond Princess,0.0,0.0,1,,1
+2020-05-10,Canada,Diamond Princess,0.0,0.0,1,,1
+2020-05-11,Canada,Diamond Princess,0.0,0.0,1,,1
+2020-05-12,Canada,Diamond Princess,0.0,0.0,1,,1
+2020-05-13,Canada,Diamond Princess,0.0,0.0,1,,1
+2020-05-14,Canada,Diamond Princess,0.0,0.0,1,,1
 2020-01-22,Canada,Grand Princess,37.6489,-122.6655,0,,0
 2020-01-23,Canada,Grand Princess,37.6489,-122.6655,0,,0
 2020-01-24,Canada,Grand Princess,37.6489,-122.6655,0,,0
@@ -375,10 +432,29 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-19,Canada,Grand Princess,37.6489,-122.6655,13,,0
 2020-04-20,Canada,Grand Princess,37.6489,-122.6655,13,,0
 2020-04-21,Canada,Grand Princess,37.6489,-122.6655,13,,0
-2020-04-22,Canada,Grand Princess,37.6489,-122.6655,-1,,-1
-2020-04-23,Canada,Grand Princess,37.6489,-122.6655,-1,,-1
-2020-04-24,Canada,Grand Princess,37.6489,-122.6655,-1,,-1
-2020-04-25,Canada,Grand Princess,37.6489,-122.6655,-1,,-1
+2020-04-22,Canada,Grand Princess,37.6489,-122.6655,13,,0
+2020-04-23,Canada,Grand Princess,37.6489,-122.6655,13,,0
+2020-04-24,Canada,Grand Princess,37.6489,-122.6655,13,,0
+2020-04-25,Canada,Grand Princess,37.6489,-122.6655,13,,0
+2020-04-26,Canada,Grand Princess,37.6489,-122.6655,13,,0
+2020-04-27,Canada,Grand Princess,37.6489,-122.6655,13,,0
+2020-04-28,Canada,Grand Princess,37.6489,-122.6655,13,,0
+2020-04-29,Canada,Grand Princess,37.6489,-122.6655,13,,0
+2020-04-30,Canada,Grand Princess,37.6489,-122.6655,13,,0
+2020-05-01,Canada,Grand Princess,37.6489,-122.6655,13,,0
+2020-05-02,Canada,Grand Princess,37.6489,-122.6655,13,,0
+2020-05-03,Canada,Grand Princess,37.6489,-122.6655,13,,0
+2020-05-04,Canada,Grand Princess,37.6489,-122.6655,13,,0
+2020-05-05,Canada,Grand Princess,37.6489,-122.6655,13,,0
+2020-05-06,Canada,Grand Princess,37.6489,-122.6655,13,,0
+2020-05-07,Canada,Grand Princess,37.6489,-122.6655,13,,0
+2020-05-08,Canada,Grand Princess,37.6489,-122.6655,13,,0
+2020-05-09,Canada,Grand Princess,37.6489,-122.6655,13,,0
+2020-05-10,Canada,Grand Princess,37.6489,-122.6655,13,,0
+2020-05-11,Canada,Grand Princess,37.6489,-122.6655,13,,0
+2020-05-12,Canada,Grand Princess,37.6489,-122.6655,13,,0
+2020-05-13,Canada,Grand Princess,37.6489,-122.6655,13,,0
+2020-05-14,Canada,Grand Princess,37.6489,-122.6655,13,,0
 2020-01-22,Canada,Manitoba,53.7609,-98.8139,0,,0
 2020-01-23,Canada,Manitoba,53.7609,-98.8139,0,,0
 2020-01-24,Canada,Manitoba,53.7609,-98.8139,0,,0
@@ -474,6 +550,25 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-23,Canada,Manitoba,53.7609,-98.8139,262,,6
 2020-04-24,Canada,Manitoba,53.7609,-98.8139,263,,6
 2020-04-25,Canada,Manitoba,53.7609,-98.8139,267,,6
+2020-04-26,Canada,Manitoba,53.7609,-98.8139,271,,6
+2020-04-27,Canada,Manitoba,53.7609,-98.8139,273,,6
+2020-04-28,Canada,Manitoba,53.7609,-98.8139,273,,6
+2020-04-29,Canada,Manitoba,53.7609,-98.8139,275,,6
+2020-04-30,Canada,Manitoba,53.7609,-98.8139,277,,6
+2020-05-01,Canada,Manitoba,53.7609,-98.8139,281,,6
+2020-05-02,Canada,Manitoba,53.7609,-98.8139,282,,6
+2020-05-03,Canada,Manitoba,53.7609,-98.8139,282,,6
+2020-05-04,Canada,Manitoba,53.7609,-98.8139,283,,6
+2020-05-05,Canada,Manitoba,53.7609,-98.8139,284,,7
+2020-05-06,Canada,Manitoba,53.7609,-98.8139,286,,7
+2020-05-07,Canada,Manitoba,53.7609,-98.8139,283,,7
+2020-05-08,Canada,Manitoba,53.7609,-98.8139,284,,7
+2020-05-09,Canada,Manitoba,53.7609,-98.8139,284,,7
+2020-05-10,Canada,Manitoba,53.7609,-98.8139,287,,7
+2020-05-11,Canada,Manitoba,53.7609,-98.8139,289,,7
+2020-05-12,Canada,Manitoba,53.7609,-98.8139,290,,7
+2020-05-13,Canada,Manitoba,53.7609,-98.8139,290,,7
+2020-05-14,Canada,Manitoba,53.7609,-98.8139,289,,7
 2020-01-22,Canada,New Brunswick,46.5653,-66.4619,0,,0
 2020-01-23,Canada,New Brunswick,46.5653,-66.4619,0,,0
 2020-01-24,Canada,New Brunswick,46.5653,-66.4619,0,,0
@@ -569,6 +664,25 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-23,Canada,New Brunswick,46.5653,-66.4619,118,,0
 2020-04-24,Canada,New Brunswick,46.5653,-66.4619,118,,0
 2020-04-25,Canada,New Brunswick,46.5653,-66.4619,118,,0
+2020-04-26,Canada,New Brunswick,46.5653,-66.4619,118,,0
+2020-04-27,Canada,New Brunswick,46.5653,-66.4619,118,,0
+2020-04-28,Canada,New Brunswick,46.5653,-66.4619,118,,0
+2020-04-29,Canada,New Brunswick,46.5653,-66.4619,118,,0
+2020-04-30,Canada,New Brunswick,46.5653,-66.4619,118,,0
+2020-05-01,Canada,New Brunswick,46.5653,-66.4619,118,,0
+2020-05-02,Canada,New Brunswick,46.5653,-66.4619,118,,0
+2020-05-03,Canada,New Brunswick,46.5653,-66.4619,118,,0
+2020-05-04,Canada,New Brunswick,46.5653,-66.4619,118,,0
+2020-05-05,Canada,New Brunswick,46.5653,-66.4619,119,,0
+2020-05-06,Canada,New Brunswick,46.5653,-66.4619,120,,0
+2020-05-07,Canada,New Brunswick,46.5653,-66.4619,120,,0
+2020-05-08,Canada,New Brunswick,46.5653,-66.4619,120,,0
+2020-05-09,Canada,New Brunswick,46.5653,-66.4619,120,,0
+2020-05-10,Canada,New Brunswick,46.5653,-66.4619,120,,0
+2020-05-11,Canada,New Brunswick,46.5653,-66.4619,120,,0
+2020-05-12,Canada,New Brunswick,46.5653,-66.4619,120,,0
+2020-05-13,Canada,New Brunswick,46.5653,-66.4619,120,,0
+2020-05-14,Canada,New Brunswick,46.5653,-66.4619,120,,0
 2020-01-22,Canada,Newfoundland and Labrador,53.1355,-57.6604,0,,0
 2020-01-23,Canada,Newfoundland and Labrador,53.1355,-57.6604,0,,0
 2020-01-24,Canada,Newfoundland and Labrador,53.1355,-57.6604,0,,0
@@ -664,6 +778,25 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-23,Canada,Newfoundland and Labrador,53.1355,-57.6604,256,,3
 2020-04-24,Canada,Newfoundland and Labrador,53.1355,-57.6604,256,,3
 2020-04-25,Canada,Newfoundland and Labrador,53.1355,-57.6604,257,,3
+2020-04-26,Canada,Newfoundland and Labrador,53.1355,-57.6604,258,,3
+2020-04-27,Canada,Newfoundland and Labrador,53.1355,-57.6604,258,,3
+2020-04-28,Canada,Newfoundland and Labrador,53.1355,-57.6604,258,,3
+2020-04-29,Canada,Newfoundland and Labrador,53.1355,-57.6604,258,,3
+2020-04-30,Canada,Newfoundland and Labrador,53.1355,-57.6604,258,,3
+2020-05-01,Canada,Newfoundland and Labrador,53.1355,-57.6604,259,,3
+2020-05-02,Canada,Newfoundland and Labrador,53.1355,-57.6604,259,,3
+2020-05-03,Canada,Newfoundland and Labrador,53.1355,-57.6604,259,,3
+2020-05-04,Canada,Newfoundland and Labrador,53.1355,-57.6604,259,,3
+2020-05-05,Canada,Newfoundland and Labrador,53.1355,-57.6604,259,,3
+2020-05-06,Canada,Newfoundland and Labrador,53.1355,-57.6604,259,,3
+2020-05-07,Canada,Newfoundland and Labrador,53.1355,-57.6604,261,,3
+2020-05-08,Canada,Newfoundland and Labrador,53.1355,-57.6604,261,,3
+2020-05-09,Canada,Newfoundland and Labrador,53.1355,-57.6604,261,,3
+2020-05-10,Canada,Newfoundland and Labrador,53.1355,-57.6604,261,,3
+2020-05-11,Canada,Newfoundland and Labrador,53.1355,-57.6604,261,,3
+2020-05-12,Canada,Newfoundland and Labrador,53.1355,-57.6604,261,,3
+2020-05-13,Canada,Newfoundland and Labrador,53.1355,-57.6604,261,,3
+2020-05-14,Canada,Newfoundland and Labrador,53.1355,-57.6604,261,,3
 2020-01-22,Canada,Northwest Territories,64.8255,-124.8457,0,,0
 2020-01-23,Canada,Northwest Territories,64.8255,-124.8457,0,,0
 2020-01-24,Canada,Northwest Territories,64.8255,-124.8457,0,,0
@@ -759,6 +892,25 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-23,Canada,Northwest Territories,64.8255,-124.8457,5,,0
 2020-04-24,Canada,Northwest Territories,64.8255,-124.8457,5,,0
 2020-04-25,Canada,Northwest Territories,64.8255,-124.8457,5,,0
+2020-04-26,Canada,Northwest Territories,64.8255,-124.8457,5,,0
+2020-04-27,Canada,Northwest Territories,64.8255,-124.8457,5,,0
+2020-04-28,Canada,Northwest Territories,64.8255,-124.8457,5,,0
+2020-04-29,Canada,Northwest Territories,64.8255,-124.8457,5,,0
+2020-04-30,Canada,Northwest Territories,64.8255,-124.8457,5,,0
+2020-05-01,Canada,Northwest Territories,64.8255,-124.8457,5,,0
+2020-05-02,Canada,Northwest Territories,64.8255,-124.8457,5,,0
+2020-05-03,Canada,Northwest Territories,64.8255,-124.8457,5,,0
+2020-05-04,Canada,Northwest Territories,64.8255,-124.8457,5,,0
+2020-05-05,Canada,Northwest Territories,64.8255,-124.8457,5,,0
+2020-05-06,Canada,Northwest Territories,64.8255,-124.8457,5,,0
+2020-05-07,Canada,Northwest Territories,64.8255,-124.8457,5,,0
+2020-05-08,Canada,Northwest Territories,64.8255,-124.8457,5,,0
+2020-05-09,Canada,Northwest Territories,64.8255,-124.8457,5,,0
+2020-05-10,Canada,Northwest Territories,64.8255,-124.8457,5,,0
+2020-05-11,Canada,Northwest Territories,64.8255,-124.8457,5,,0
+2020-05-12,Canada,Northwest Territories,64.8255,-124.8457,5,,0
+2020-05-13,Canada,Northwest Territories,64.8255,-124.8457,5,,0
+2020-05-14,Canada,Northwest Territories,64.8255,-124.8457,5,,0
 2020-01-22,Canada,Nova Scotia,44.682,-63.7443,0,,0
 2020-01-23,Canada,Nova Scotia,44.682,-63.7443,0,,0
 2020-01-24,Canada,Nova Scotia,44.682,-63.7443,0,,0
@@ -852,8 +1004,27 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-21,Canada,Nova Scotia,44.682,-63.7443,737,,10
 2020-04-22,Canada,Nova Scotia,44.682,-63.7443,772,,12
 2020-04-23,Canada,Nova Scotia,44.682,-63.7443,827,,16
-2020-04-24,Canada,Nova Scotia,44.682,-63.7443,-1,,-1
-2020-04-25,Canada,Nova Scotia,44.682,-63.7443,-1,,-1
+2020-04-24,Canada,Nova Scotia,44.682,-63.7443,850,,16
+2020-04-25,Canada,Nova Scotia,44.682,-63.7443,865,,22
+2020-04-26,Canada,Nova Scotia,44.682,-63.7443,873,,24
+2020-04-27,Canada,Nova Scotia,44.682,-63.7443,900,,24
+2020-04-28,Canada,Nova Scotia,44.682,-63.7443,915,,27
+2020-04-29,Canada,Nova Scotia,44.682,-63.7443,935,,28
+2020-04-30,Canada,Nova Scotia,44.682,-63.7443,947,,28
+2020-05-01,Canada,Nova Scotia,44.682,-63.7443,959,,29
+2020-05-02,Canada,Nova Scotia,44.682,-63.7443,963,,31
+2020-05-03,Canada,Nova Scotia,44.682,-63.7443,971,,37
+2020-05-04,Canada,Nova Scotia,44.682,-63.7443,985,,38
+2020-05-05,Canada,Nova Scotia,44.682,-63.7443,991,,41
+2020-05-06,Canada,Nova Scotia,44.682,-63.7443,998,,41
+2020-05-07,Canada,Nova Scotia,44.682,-63.7443,1007,,44
+2020-05-08,Canada,Nova Scotia,44.682,-63.7443,1008,,46
+2020-05-09,Canada,Nova Scotia,44.682,-63.7443,1011,,47
+2020-05-10,Canada,Nova Scotia,44.682,-63.7443,1018,,47
+2020-05-11,Canada,Nova Scotia,44.682,-63.7443,1019,,48
+2020-05-12,Canada,Nova Scotia,44.682,-63.7443,1020,,48
+2020-05-13,Canada,Nova Scotia,44.682,-63.7443,1024,,51
+2020-05-14,Canada,Nova Scotia,44.682,-63.7443,1026,,51
 2020-01-22,Canada,Ontario,51.2538,-85.3232,0,,0
 2020-01-23,Canada,Ontario,51.2538,-85.3232,0,,0
 2020-01-24,Canada,Ontario,51.2538,-85.3232,0,,0
@@ -949,6 +1120,25 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-23,Canada,Ontario,51.2538,-85.3232,14068,,806
 2020-04-24,Canada,Ontario,51.2538,-85.3232,14550,,862
 2020-04-25,Canada,Ontario,51.2538,-85.3232,15012,,916
+2020-04-26,Canada,Ontario,51.2538,-85.3232,15568,,960
+2020-04-27,Canada,Ontario,51.2538,-85.3232,15970,,1023
+2020-04-28,Canada,Ontario,51.2538,-85.3232,16500,,1072
+2020-04-29,Canada,Ontario,51.2538,-85.3232,16978,,1153
+2020-04-30,Canada,Ontario,51.2538,-85.3232,17395,,1205
+2020-05-01,Canada,Ontario,51.2538,-85.3232,17880,,1265
+2020-05-02,Canada,Ontario,51.2538,-85.3232,18321,,1292
+2020-05-03,Canada,Ontario,51.2538,-85.3232,18574,,1326
+2020-05-04,Canada,Ontario,51.2538,-85.3232,19097,,1446
+2020-05-05,Canada,Ontario,51.2538,-85.3232,19468,,1505
+2020-05-06,Canada,Ontario,51.2538,-85.3232,19910,,1560
+2020-05-07,Canada,Ontario,51.2538,-85.3232,20388,,1607
+2020-05-08,Canada,Ontario,51.2538,-85.3232,20826,,1665
+2020-05-09,Canada,Ontario,51.2538,-85.3232,21148,,1726
+2020-05-10,Canada,Ontario,51.2538,-85.3232,21469,,1751
+2020-05-11,Canada,Ontario,51.2538,-85.3232,21817,,1788
+2020-05-12,Canada,Ontario,51.2538,-85.3232,22158,,1852
+2020-05-13,Canada,Ontario,51.2538,-85.3232,22516,,1883
+2020-05-14,Canada,Ontario,51.2538,-85.3232,22865,,1915
 2020-01-22,Canada,Prince Edward Island,46.5107,-63.4168,0,,0
 2020-01-23,Canada,Prince Edward Island,46.5107,-63.4168,0,,0
 2020-01-24,Canada,Prince Edward Island,46.5107,-63.4168,0,,0
@@ -1044,6 +1234,25 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-23,Canada,Prince Edward Island,46.5107,-63.4168,26,,0
 2020-04-24,Canada,Prince Edward Island,46.5107,-63.4168,26,,0
 2020-04-25,Canada,Prince Edward Island,46.5107,-63.4168,26,,0
+2020-04-26,Canada,Prince Edward Island,46.5107,-63.4168,26,,0
+2020-04-27,Canada,Prince Edward Island,46.5107,-63.4168,26,,0
+2020-04-28,Canada,Prince Edward Island,46.5107,-63.4168,27,,0
+2020-04-29,Canada,Prince Edward Island,46.5107,-63.4168,27,,0
+2020-04-30,Canada,Prince Edward Island,46.5107,-63.4168,27,,0
+2020-05-01,Canada,Prince Edward Island,46.5107,-63.4168,27,,0
+2020-05-02,Canada,Prince Edward Island,46.5107,-63.4168,27,,0
+2020-05-03,Canada,Prince Edward Island,46.5107,-63.4168,27,,0
+2020-05-04,Canada,Prince Edward Island,46.5107,-63.4168,27,,0
+2020-05-05,Canada,Prince Edward Island,46.5107,-63.4168,27,,0
+2020-05-06,Canada,Prince Edward Island,46.5107,-63.4168,27,,0
+2020-05-07,Canada,Prince Edward Island,46.5107,-63.4168,27,,0
+2020-05-08,Canada,Prince Edward Island,46.5107,-63.4168,27,,0
+2020-05-09,Canada,Prince Edward Island,46.5107,-63.4168,27,,0
+2020-05-10,Canada,Prince Edward Island,46.5107,-63.4168,27,,0
+2020-05-11,Canada,Prince Edward Island,46.5107,-63.4168,27,,0
+2020-05-12,Canada,Prince Edward Island,46.5107,-63.4168,27,,0
+2020-05-13,Canada,Prince Edward Island,46.5107,-63.4168,27,,0
+2020-05-14,Canada,Prince Edward Island,46.5107,-63.4168,27,,0
 2020-01-22,Canada,Quebec,52.9399,-73.5491,0,,0
 2020-01-23,Canada,Quebec,52.9399,-73.5491,0,,0
 2020-01-24,Canada,Quebec,52.9399,-73.5491,0,,0
@@ -1139,6 +1348,25 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-23,Canada,Quebec,52.9399,-73.5491,21838,,1243
 2020-04-24,Canada,Quebec,52.9399,-73.5491,22616,,1340
 2020-04-25,Canada,Quebec,52.9399,-73.5491,23267,,1446
+2020-04-26,Canada,Quebec,52.9399,-73.5491,24109,,1516
+2020-04-27,Canada,Quebec,52.9399,-73.5491,24983,,1600
+2020-04-28,Canada,Quebec,52.9399,-73.5491,25761,,1683
+2020-04-29,Canada,Quebec,52.9399,-73.5491,26610,,1762
+2020-04-30,Canada,Quebec,52.9399,-73.5491,27550,,1859
+2020-05-01,Canada,Quebec,52.9399,-73.5491,28656,,2022
+2020-05-02,Canada,Quebec,52.9399,-73.5491,29664,,2136
+2020-05-03,Canada,Quebec,52.9399,-73.5491,31873,,2206
+2020-05-04,Canada,Quebec,52.9399,-73.5491,32631,,2281
+2020-05-05,Canada,Quebec,52.9399,-73.5491,33425,,2399
+2020-05-06,Canada,Quebec,52.9399,-73.5491,34334,,2511
+2020-05-07,Canada,Quebec,52.9399,-73.5491,35249,,2632
+2020-05-08,Canada,Quebec,52.9399,-73.5491,36161,,2726
+2020-05-09,Canada,Quebec,52.9399,-73.5491,36997,,2787
+2020-05-10,Canada,Quebec,52.9399,-73.5491,37732,,2929
+2020-05-11,Canada,Quebec,52.9399,-73.5491,38480,,3014
+2020-05-12,Canada,Quebec,52.9399,-73.5491,39235,,3132
+2020-05-13,Canada,Quebec,52.9399,-73.5491,39940,,3221
+2020-05-14,Canada,Quebec,52.9399,-73.5491,40732,,3352
 2020-01-22,Canada,Recovery aggregated,56.1304,-106.3468,,0,
 2020-01-23,Canada,Recovery aggregated,56.1304,-106.3468,,0,
 2020-01-24,Canada,Recovery aggregated,56.1304,-106.3468,,0,
@@ -1234,6 +1462,25 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-23,Canada,Recovery aggregated,56.1304,-106.3468,,14761,
 2020-04-24,Canada,Recovery aggregated,56.1304,-106.3468,,15149,
 2020-04-25,Canada,Recovery aggregated,56.1304,-106.3468,,16013,
+2020-04-26,Canada,Recovery aggregated,56.1304,-106.3468,,16883,
+2020-04-27,Canada,Recovery aggregated,56.1304,-106.3468,,18268,
+2020-04-28,Canada,Recovery aggregated,56.1304,-106.3468,,19231,
+2020-04-29,Canada,Recovery aggregated,56.1304,-106.3468,,20327,
+2020-04-30,Canada,Recovery aggregated,56.1304,-106.3468,,21424,
+2020-05-01,Canada,Recovery aggregated,56.1304,-106.3468,,22764,
+2020-05-02,Canada,Recovery aggregated,56.1304,-106.3468,,23814,
+2020-05-03,Canada,Recovery aggregated,56.1304,-106.3468,,24921,
+2020-05-04,Canada,Recovery aggregated,56.1304,-106.3468,,26030,
+2020-05-05,Canada,Recovery aggregated,56.1304,-106.3468,,27006,
+2020-05-06,Canada,Recovery aggregated,56.1304,-106.3468,,28184,
+2020-05-07,Canada,Recovery aggregated,56.1304,-106.3468,,29260,
+2020-05-08,Canada,Recovery aggregated,56.1304,-106.3468,,30239,
+2020-05-09,Canada,Recovery aggregated,56.1304,-106.3468,,31262,
+2020-05-10,Canada,Recovery aggregated,56.1304,-106.3468,,32109,
+2020-05-11,Canada,Recovery aggregated,56.1304,-106.3468,,33007,
+2020-05-12,Canada,Recovery aggregated,56.1304,-106.3468,,34055,
+2020-05-13,Canada,Recovery aggregated,56.1304,-106.3468,,35177,
+2020-05-14,Canada,Recovery aggregated,56.1304,-106.3468,,36104,
 2020-01-22,Canada,Saskatchewan,52.9399,-106.4509,0,,0
 2020-01-23,Canada,Saskatchewan,52.9399,-106.4509,0,,0
 2020-01-24,Canada,Saskatchewan,52.9399,-106.4509,0,,0
@@ -1329,6 +1576,25 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-23,Canada,Saskatchewan,52.9399,-106.4509,331,,4
 2020-04-24,Canada,Saskatchewan,52.9399,-106.4509,341,,4
 2020-04-25,Canada,Saskatchewan,52.9399,-106.4509,349,,4
+2020-04-26,Canada,Saskatchewan,52.9399,-106.4509,353,,4
+2020-04-27,Canada,Saskatchewan,52.9399,-106.4509,365,,5
+2020-04-28,Canada,Saskatchewan,52.9399,-106.4509,366,,5
+2020-04-29,Canada,Saskatchewan,52.9399,-106.4509,383,,6
+2020-04-30,Canada,Saskatchewan,52.9399,-106.4509,389,,7
+2020-05-01,Canada,Saskatchewan,52.9399,-106.4509,415,,7
+2020-05-02,Canada,Saskatchewan,52.9399,-106.4509,421,,7
+2020-05-03,Canada,Saskatchewan,52.9399,-106.4509,433,,7
+2020-05-04,Canada,Saskatchewan,52.9399,-106.4509,467,,7
+2020-05-05,Canada,Saskatchewan,52.9399,-106.4509,487,,7
+2020-05-06,Canada,Saskatchewan,52.9399,-106.4509,512,,7
+2020-05-07,Canada,Saskatchewan,52.9399,-106.4509,531,,7
+2020-05-08,Canada,Saskatchewan,52.9399,-106.4509,544,,7
+2020-05-09,Canada,Saskatchewan,52.9399,-106.4509,553,,7
+2020-05-10,Canada,Saskatchewan,52.9399,-106.4509,564,,7
+2020-05-11,Canada,Saskatchewan,52.9399,-106.4509,568,,7
+2020-05-12,Canada,Saskatchewan,52.9399,-106.4509,573,,7
+2020-05-13,Canada,Saskatchewan,52.9399,-106.4509,577,,7
+2020-05-14,Canada,Saskatchewan,52.9399,-106.4509,582,,7
 2020-01-22,Canada,Yukon,64.2823,-135.0,0,,0
 2020-01-23,Canada,Yukon,64.2823,-135.0,0,,0
 2020-01-24,Canada,Yukon,64.2823,-135.0,0,,0
@@ -1424,3 +1690,22 @@ Date,Country/Region,Province/State,Lat,Long,Confirmed,Recovered,Deaths
 2020-04-23,Canada,Yukon,64.2823,-135.0,11,,0
 2020-04-24,Canada,Yukon,64.2823,-135.0,11,,0
 2020-04-25,Canada,Yukon,64.2823,-135.0,11,,0
+2020-04-26,Canada,Yukon,64.2823,-135.0,11,,0
+2020-04-27,Canada,Yukon,64.2823,-135.0,11,,0
+2020-04-28,Canada,Yukon,64.2823,-135.0,11,,0
+2020-04-29,Canada,Yukon,64.2823,-135.0,11,,0
+2020-04-30,Canada,Yukon,64.2823,-135.0,11,,0
+2020-05-01,Canada,Yukon,64.2823,-135.0,11,,0
+2020-05-02,Canada,Yukon,64.2823,-135.0,11,,0
+2020-05-03,Canada,Yukon,64.2823,-135.0,11,,0
+2020-05-04,Canada,Yukon,64.2823,-135.0,11,,0
+2020-05-05,Canada,Yukon,64.2823,-135.0,11,,0
+2020-05-06,Canada,Yukon,64.2823,-135.0,11,,0
+2020-05-07,Canada,Yukon,64.2823,-135.0,11,,0
+2020-05-08,Canada,Yukon,64.2823,-135.0,11,,0
+2020-05-09,Canada,Yukon,64.2823,-135.0,11,,0
+2020-05-10,Canada,Yukon,64.2823,-135.0,11,,0
+2020-05-11,Canada,Yukon,64.2823,-135.0,11,,0
+2020-05-12,Canada,Yukon,64.2823,-135.0,11,,0
+2020-05-13,Canada,Yukon,64.2823,-135.0,11,,0
+2020-05-14,Canada,Yukon,64.2823,-135.0,11,,0
