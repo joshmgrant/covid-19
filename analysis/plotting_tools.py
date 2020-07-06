@@ -8,7 +8,7 @@ from model_fitting import confirmed_model
 
 
 def plot_data(region='ontario', show_estimated=None):
-    file_name = '../data/{}-time-series-combined.csv'.format(region)
+    file_name = '../scripts/data/{}-time-series-combined.csv'.format(region)
 
     with open(file_name) as file:
         reader = csv.DictReader(file)

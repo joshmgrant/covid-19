@@ -5,11 +5,11 @@ import numpy as np
 
 def confirmed_model(region='ontario', x_model=[], us_case=None):
     if us_case:
-        with open("../data/us_confirmed_pivot_data.csv") as file:
+        with open("../scripts/data/us_confirmed_pivot_data.csv") as file:
             reader = csv.DictReader(file)
             confirmed = [row[region.capitalize()] for row in reader]
     else:
-        with open("../data/{}-time-series-combined.csv".format(region)) as file:
+        with open("../scripts/data/{}-time-series-combined.csv".format(region)) as file:
             reader = csv.DictReader(file)
             confirmed = [row['Confirmed'] for row in reader]
 
