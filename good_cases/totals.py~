@@ -1,0 +1,22 @@
+import csv
+
+
+with open('mongolia.csv') as file:
+    reader = csv.DictReader(file)
+    mongolia_cases = [row['Confirmed'] for row in reader]
+    mongolia_deaths = [row['Deaths'] for row in reader]
+
+with open('trinidad_tobago.csv') as file:
+    reader = csv.DictReader(file)
+    trini_cases = [row['Confirmed'] for row in reader]
+    trini_deaths = [row['Deaths'] for row in reader]
+
+with open('vietnam.csv') as file:
+    reader = csv.DictReader(file)
+    vietnam_cases = [row['Confirmed'] for row in reader]
+    vietnam_deaths = [row['Deaths'] for row in reader]
+
+total_cases = [*mongolia_cases, *trini_cases, *vietnam_cases]
+total_deaaths = [*mongolia_deaths, *trini_deaths, *vietnam_cases]
+
+print(total_cases)
